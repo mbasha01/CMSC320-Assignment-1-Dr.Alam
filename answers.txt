@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: An example of a field data science can be applied to is the healthcare field. In this field data science can help to predict and model health data and statistics such as
+taking previous disease health data from the past, performing analysis and going through the data science methodology/life-cycle, and then developing a model such as a
+machine learning model of the data. This model can be developed in a way to predict the likelihood of a disease spreading to certain regions based on the training data which can
+overall help in making informed policy decisions for stakeholders such as government health offices among others.
