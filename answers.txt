@@ -17,3 +17,10 @@ Answer: Merging combines two branchs by applying changes made on a certain branc
 records when branches are split and joined. 
 On the other hand, rebasing rewrites the version history of commits by applying changes from a certain branch to current directly onto it without the 
 merge commit, making changes as if they were made on the branch itself rather than a separate branch. 
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my data analysis skills in being able to really go through and derive key insights from a variety of data types and databases.
+I hope to gain practical skills in all steps of the data science life-cycle from data cleaning and preparation to actually making machine learning models.
+I have a strong interest in understanding how to develop machine learning models especially as I have a strong desire to pursue a career in data science.
+Furthermore, I want to strengthen my skills in other skills such as Python PANDAS, SQL among others. 
