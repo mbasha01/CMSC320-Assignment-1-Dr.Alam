@@ -10,3 +10,10 @@ Answer: An example of a field data science can be applied to is the healthcare f
 taking previous disease health data from the past, performing analysis and going through the data science methodology/life-cycle, and then developing a model such as a
 machine learning model of the data. This model can be developed in a way to predict the likelihood of a disease spreading to certain regions based on the training data which can
 overall help in making informed policy decisions for stakeholders such as government health offices among others.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines two branchs by applying changes made on a certain branch to the current branch using a merge commit, keeping historical
+records when branches are split and joined. 
+On the other hand, rebasing rewrites the version history of commits by applying changes from a certain branch to current directly onto it without the 
+merge commit, making changes as if they were made on the branch itself rather than a separate branch. 
